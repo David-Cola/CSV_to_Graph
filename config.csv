@@ -1,0 +1,2 @@
+filepath,year_col_name,value_col_name,unit_code_col_name,unit_codes
+seds_all_states_long.csv,year,value,units_code,MMkwh
